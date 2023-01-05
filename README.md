@@ -1,7 +1,7 @@
 # flutter_rest_api
 
-Flutter REST API Tutorials Crash Course with null safety
-https://www.youtube.com/playlist?list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51
+Flutter REST API with null safety by The Tech Brothers
+https://tinyurl.com/2yzzjfvp
 
 ## Getting Started
 
