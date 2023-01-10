@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rest_api/home_screen.dart';
-
-import 'example_two.dart';
+import 'package:flutter_rest_api/example_three.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,10 +13,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Rest API',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
       ),
       debugShowCheckedModeBanner: false,
-      home: const ExampleTwo(),
+      home: const ExampleThree(),
     );
   }
 }
