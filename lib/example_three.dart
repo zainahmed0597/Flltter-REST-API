@@ -22,7 +22,6 @@ class _ExampleThreeState extends State<ExampleThree> {
       var data = jsonDecode(response.body.toString());
 
       for (Map i in data) {
-        print(i['name']);
         userList.add(UserModel.fromJson(i));
       }
       return userList;
@@ -55,12 +54,34 @@ class _ExampleThreeState extends State<ExampleThree> {
                             padding: const EdgeInsets.all(8.0),
                             child: Column(
                               children: [
-                                ReuseableRow(title: "Name: ",value:snapshot.data![index].name.toString()),
-                                ReuseableRow(title: "User: ", value: snapshot.data![index].username.toString()),
-                                ReuseableRow(title: "Email: ",value:snapshot.data![index].email.toString()),
-                                ReuseableRow(title: "Address: ",value:snapshot.data![index].address!.city.toString()),
-                                ReuseableRow(title: "Zipcode: ",value:snapshot.data![index].address!.zipcode.toString()),
-                                ReuseableRow(title: "Geo Location: ",value:snapshot.data![index].address!.geo!.lat.toString()+snapshot.data![index].address!.geo!.lng.toString()),
+                                ReusableRow(
+                                    title: "Name: ",
+                                    value:
+                                        snapshot.data![index].name.toString()),
+                                ReusableRow(
+                                    title: "User: ",
+                                    value: snapshot.data![index].username
+                                        .toString()),
+                                ReusableRow(
+                                    title: "Email: ",
+                                    value:
+                                        snapshot.data![index].email.toString()),
+                                ReusableRow(
+                                    title: "Address: ",
+                                    value: snapshot.data![index].address!.city
+                                        .toString()),
+                                ReusableRow(
+                                    title: "Zipcode: ",
+                                    value: snapshot
+                                        .data![index].address!.zipcode
+                                        .toString()),
+                                ReusableRow(
+                                    title: "Geo Location: ",
+                                    value: snapshot
+                                            .data![index].address!.geo!.lat
+                                            .toString() +
+                                        snapshot.data![index].address!.geo!.lng
+                                            .toString()),
                               ],
                             ),
                           ),
@@ -76,10 +97,10 @@ class _ExampleThreeState extends State<ExampleThree> {
   }
 }
 
-class ReuseableRow extends StatelessWidget {
-  String title, value;
+class ReusableRow extends StatelessWidget {
+  final String title, value;
 
-  ReuseableRow({Key? key, required this.title, required this.value})
+  const ReusableRow({Key? key, required this.title, required this.value})
       : super(key: key);
 
   @override

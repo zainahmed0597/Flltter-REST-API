@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rest_api/example_three.dart';
+
+import 'example_four.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,10 +14,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Rest API',
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.purple,
       ),
       debugShowCheckedModeBanner: false,
-      home: const ExampleThree(),
+      home: const ExampleFour(),
     );
   }
 }
