@@ -14,12 +14,14 @@ class _ExampleFourState extends State<ExampleFour> {
   var data;
 
   Future<void> getUserApi() async {
-    final response =
-        await http.get(Uri.parse('https://jsonplaceholder.typicode.com/users'));
+    final response = await http.get(Uri.parse('https://jsonplaceholder.typicode.com/users'));
     if (response.statusCode == 200) {
+      print('1');
+      print(response.body.toString());
       data = jsonDecode(response.body.toString());
     } else {
-
+      print('2');
+      data = jsonDecode(response.body.toString());
     }
   }
 
