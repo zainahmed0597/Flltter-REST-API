@@ -55,7 +55,7 @@ class _ExampleTwoState extends State<ExampleTwo> {
                         );
                       });
                 }),
-          )
+          ),
         ],
       ),
     );

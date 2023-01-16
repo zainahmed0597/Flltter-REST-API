@@ -13,20 +13,15 @@ class LastExampleScreen extends StatefulWidget {
 }
 
 class _LastExampleScreenState extends State<LastExampleScreen> {
-  var data;
+  // var data;
+  String link = "https://959bd270-8c2d-4f3a-9ee6-376e319ac642.mock.pstmn.io/getproducts";
 
   Future<ProductsModel> getProductsApi() async {
-    final response = await http.get(Uri.parse(
-        'https://13ed681c-c0d7-4bef-884b-5d9c9eb75636.mock.pstmn.io/getproducts'));
-    print('${response.body}Response 1');
-    data = jsonDecode(response.body.toString());
-    print("3");
+    final response = await http.get(Uri.parse(link));
+    var data = jsonDecode(response.body.toString());
     if (response.statusCode == 200) {
-    print('${response.body}Response 2');
-      print('1');
       return ProductsModel.fromJson(data);
     } else {
-      print('2');
       return ProductsModel.fromJson(data);
     }
   }

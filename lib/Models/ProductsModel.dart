@@ -1,16 +1,16 @@
 /// success : true
-/// message : "All Data"
-/// data : [{"_id":"619c8e3500622d79441b9540","on_sale":true,"sale_percent":20,"sold":12,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"EMTSI21-50199","categories":{"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0},"subcate":{"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0},"shop":{"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0},"price":"2,790.00","sale_title":"Winter Sale","sale_price":"1,953.00","description":"Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134","colors":"#FF6347,#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}],"__v":1,"in_wishlist":false},{"_id":"619c8e3500622d79441b9540","on_sale":true,"sale_percent":20,"sold":12,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"EMTSI21-50199","categories":{"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0},"subcate":{"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0},"shop":{"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0},"price":"2,790.00","sale_title":"Winter Sale","sale_price":"1,953.00","description":"Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134","colors":"#FF6347,#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}],"__v":1,"in_wishlist":false},{"_id":"619c8e3500622d79441b9540","on_sale":true,"sale_percent":20,"sold":12,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"EMTSI21-50199","categories":{"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0},"subcate":{"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0},"shop":{"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0},"price":"2,790.00","sale_title":"Winter Sale","sale_price":"1,953.00","description":"Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134","colors":"#FF6347,#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}],"__v":1,"in_wishlist":false}]
+/// message : "All Shops Data"
+/// data : [{"_id":"61963b4300622d794418687e","on_sale":true,"sale_percent":0,"sold":10,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Denim Shirt Grey","categories":{"_id":"61963b4300622d794418687f","type":"Woman","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"https://cdn.pixabay.com/photo/2016/08/26/20/44/elan-1623087_1280.jpg","__v":0},"subcate":{"_id":"61963b43d0w0622d794418687f","date":"2021-08-30T07:29:45.558Z","name":"Shirts","parentid":"6196377900622d79441864422331b","__v":0},"shop":{"_id":"6196377900622d794418644b","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"ONE","description":"Clothing store in Islamabad","shopemail":"ONE@gmail.com","shopaddress":"islamabad","shopcity":"Islamabad","userid":"6196377800622d7944186447","image":"https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150","__v":0},"price":"3,490 ","sale_title":"3,490 ","sale_price":"2,443","description":"men shirt","colors":"Red","size":"S,M,X,XL","images":[{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":1,"in_wishlist":false},{"_id":"61963b4300622d794418687e","on_sale":true,"sale_percent":0,"sold":10,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Denim Shirt Grey","categories":{"_id":"61963b4300622d794418687f","type":"Woman","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"https://cdn.pixabay.com/photo/2016/08/26/20/44/elan-1623087_1280.jpg","__v":0},"subcate":{"_id":"61963b43d0w0622d794418687f","date":"2021-08-30T07:29:45.558Z","name":"Shirts","parentid":"6196377900622d79441864422331b","__v":0},"shop":{"_id":"6196377900622d794418644b","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"ONE","description":"Clothing store in Islamabad","shopemail":"ONE@gmail.com","shopaddress":"islamabad","shopcity":"Islamabad","userid":"6196377800622d7944186447","image":"https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150","__v":0},"price":"3,490 ","sale_title":"3,490 ","sale_price":"2,443","description":"men shirt","colors":"Red","size":"S,M,X,XL","images":[{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":1,"in_wishlist":false},{"_id":"61963b4300622d794418687e","on_sale":true,"sale_percent":0,"sold":10,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Denim Shirt Grey","categories":{"_id":"61963b4300622d794418687f","type":"Woman","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"https://cdn.pixabay.com/photo/2016/08/26/20/44/elan-1623087_1280.jpg","__v":0},"subcate":{"_id":"61963b43d0w0622d794418687f","date":"2021-08-30T07:29:45.558Z","name":"Shirts","parentid":"6196377900622d79441864422331b","__v":0},"shop":{"_id":"6196377900622d794418644b","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"ONE","description":"Clothing store in Islamabad","shopemail":"ONE@gmail.com","shopaddress":"islamabad","shopcity":"Islamabad","userid":"6196377800622d7944186447","image":"https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150","__v":0},"price":"3,490 ","sale_title":"3,490 ","sale_price":"2,443","description":"men shirt","colors":"Red","size":"S,M,X,XL","images":[{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":1,"in_wishlist":false}]
 
 class ProductsModel {
   ProductsModel({
-    bool? success,
-    String? message,
-    List<Data>? data,}){
+      bool? success, 
+      String? message, 
+      List<Data>? data,}){
     _success = success;
     _message = message;
     _data = data;
-  }
+}
 
   ProductsModel.fromJson(dynamic json) {
     _success = json['success'];
@@ -42,51 +42,51 @@ class ProductsModel {
 
 }
 
-/// _id : "619c8e3500622d79441b9540"
+/// _id : "61963b4300622d794418687e"
 /// on_sale : true
-/// sale_percent : 20
-/// sold : 12
+/// sale_percent : 0
+/// sold : 10
 /// slider_new : false
 /// slider_recent : false
 /// slider_sold : false
 /// date : "2021-11-18T09:03:04.358Z"
-/// title : "EMTSI21-50199"
-/// categories : {"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0}
-/// subcate : {"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0}
-/// shop : {"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0}
-/// price : "2,790.00"
-/// sale_title : "Winter Sale"
-/// sale_price : "1,953.00"
-/// description : "Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134"
-/// colors : "#FF6347,#CD5C5C"
-/// size : "S,M,L,XL,XXL"
-/// images : [{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}]
+/// title : "Denim Shirt Grey"
+/// categories : {"_id":"61963b4300622d794418687f","type":"Woman","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"https://cdn.pixabay.com/photo/2016/08/26/20/44/elan-1623087_1280.jpg","__v":0}
+/// subcate : {"_id":"61963b43d0w0622d794418687f","date":"2021-08-30T07:29:45.558Z","name":"Shirts","parentid":"6196377900622d79441864422331b","__v":0}
+/// shop : {"_id":"6196377900622d794418644b","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"ONE","description":"Clothing store in Islamabad","shopemail":"ONE@gmail.com","shopaddress":"islamabad","shopcity":"Islamabad","userid":"6196377800622d7944186447","image":"https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150","__v":0}
+/// price : "3,490 "
+/// sale_title : "3,490 "
+/// sale_price : "2,443"
+/// description : "men shirt"
+/// colors : "Red"
+/// size : "S,M,X,XL"
+/// images : [{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}]
 /// __v : 1
 /// in_wishlist : false
 
 class Data {
   Data({
-    String? id,
-    bool? onSale,
-    int? salePercent,
-    int? sold,
-    bool? sliderNew,
-    bool? sliderRecent,
-    bool? sliderSold,
-    String? date,
-    String? title,
-    Categories? categories,
-    Subcate? subcate,
-    Shop? shop,
-    String? price,
-    String? saleTitle,
-    String? salePrice,
-    String? description,
-    String? colors,
-    String? size,
-    List<Images>? images,
-    int? v,
-    bool? inWishlist,}){
+      String? id, 
+      bool? onSale, 
+      int? salePercent, 
+      int? sold, 
+      bool? sliderNew, 
+      bool? sliderRecent, 
+      bool? sliderSold, 
+      String? date, 
+      String? title, 
+      Categories? categories, 
+      Subcate? subcate, 
+      Shop? shop, 
+      String? price, 
+      String? saleTitle, 
+      String? salePrice, 
+      String? description, 
+      String? colors, 
+      String? size, 
+      List<Images>? images, 
+      int? v, 
+      bool? inWishlist,}){
     _id = id;
     _onSale = onSale;
     _salePercent = salePercent;
@@ -108,7 +108,7 @@ class Data {
     _images = images;
     _v = v;
     _inWishlist = inWishlist;
-  }
+}
 
   Data.fromJson(dynamic json) {
     _id = json['_id'];
@@ -218,19 +218,19 @@ class Data {
 
 }
 
-/// _id : "619c8e4400622d79441b9631"
-/// filename : "images[0]-1637649987263-936766588.webp"
-/// url : "https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"
+/// _id : "61963b4300622d794418687f"
+/// filename : "images[0]-1637235522052-730096647.jpeg"
+/// url : "https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"
 
 class Images {
   Images({
-    String? id,
-    String? filename,
-    String? url,}){
+      String? id, 
+      String? filename, 
+      String? url,}){
     _id = id;
     _filename = filename;
     _url = url;
-  }
+}
 
   Images.fromJson(dynamic json) {
     _id = json['_id'];
@@ -255,31 +255,31 @@ class Images {
 
 }
 
-/// _id : "619c85e200622d79441b016f"
+/// _id : "6196377900622d794418644b"
 /// is_active : false
 /// created_at : "2021-11-18T09:03:04.356Z"
-/// name : "Edenrobe"
-/// description : "The is Edenrobe brand"
-/// shopemail : "edenrobe@gmail.com"
-/// shopaddress : "Islamabad F8"
+/// name : "ONE"
+/// description : "Clothing store in Islamabad"
+/// shopemail : "ONE@gmail.com"
+/// shopaddress : "islamabad"
 /// shopcity : "Islamabad"
-/// userid : "619c85e100622d79441b015d"
-/// image : "https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg"
+/// userid : "6196377800622d7944186447"
+/// image : "https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150"
 /// __v : 0
 
 class Shop {
   Shop({
-    String? id,
-    bool? isActive,
-    String? createdAt,
-    String? name,
-    String? description,
-    String? shopemail,
-    String? shopaddress,
-    String? shopcity,
-    String? userid,
-    String? image,
-    int? v,}){
+      String? id, 
+      bool? isActive, 
+      String? createdAt, 
+      String? name, 
+      String? description, 
+      String? shopemail, 
+      String? shopaddress, 
+      String? shopcity, 
+      String? userid, 
+      String? image, 
+      int? v,}){
     _id = id;
     _isActive = isActive;
     _createdAt = createdAt;
@@ -291,7 +291,7 @@ class Shop {
     _userid = userid;
     _image = image;
     _v = v;
-  }
+}
 
   Shop.fromJson(dynamic json) {
     _id = json['_id'];
@@ -348,25 +348,25 @@ class Shop {
 
 }
 
-/// _id : "616e81dba17386218e27a2b5"
-/// date : "2021-10-18T10:52:11.222Z"
+/// _id : "61963b43d0w0622d794418687f"
+/// date : "2021-08-30T07:29:45.558Z"
 /// name : "Shirts"
-/// parentid : "612c8b2b674ad2107eb2d244"
+/// parentid : "6196377900622d79441864422331b"
 /// __v : 0
 
 class Subcate {
   Subcate({
-    String? id,
-    String? date,
-    String? name,
-    String? parentid,
-    int? v,}){
+      String? id, 
+      String? date, 
+      String? name, 
+      String? parentid, 
+      int? v,}){
     _id = id;
     _date = date;
     _name = name;
     _parentid = parentid;
     _v = v;
-  }
+}
 
   Subcate.fromJson(dynamic json) {
     _id = json['_id'];
@@ -399,28 +399,28 @@ class Subcate {
 
 }
 
-/// _id : "612c8b2b674ad2107eb2d244"
-/// type : "Women"
+/// _id : "61963b4300622d794418687f"
+/// type : "Woman"
 /// date : "2021-08-30T07:29:45.558Z"
 /// name : "Clothes"
-/// image : "http://54.219.221.136:5000/file-1635166478569-362580145.png"
+/// image : "https://cdn.pixabay.com/photo/2016/08/26/20/44/elan-1623087_1280.jpg"
 /// __v : 0
 
 class Categories {
   Categories({
-    String? id,
-    String? type,
-    String? date,
-    String? name,
-    String? image,
-    int? v,}){
+      String? id, 
+      String? type, 
+      String? date, 
+      String? name, 
+      String? image, 
+      int? v,}){
     _id = id;
     _type = type;
     _date = date;
     _name = name;
     _image = image;
     _v = v;
-  }
+}
 
   Categories.fromJson(dynamic json) {
     _id = json['_id'];
