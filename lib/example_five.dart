@@ -1,8 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'dart:math';
-
 import 'Models/ProductsModel.dart';
 
 class LastExampleScreen extends StatefulWidget {
@@ -13,8 +11,8 @@ class LastExampleScreen extends StatefulWidget {
 }
 
 class _LastExampleScreenState extends State<LastExampleScreen> {
-  // var data;
-  String link = "https://959bd270-8c2d-4f3a-9ee6-376e319ac642.mock.pstmn.io/getproducts";
+  String link =
+      "https://959bd270-8c2d-4f3a-9ee6-376e319ac642.mock.pstmn.io/getproducts";
 
   Future<ProductsModel> getProductsApi() async {
     final response = await http.get(Uri.parse(link));
@@ -42,8 +40,6 @@ class _LastExampleScreenState extends State<LastExampleScreen> {
                 future: getProductsApi(),
                 builder: (context, snapshot) {
                   if (snapshot.hasData) {
-                    print('Data');
-                    print(snapshot.hasData.toString());
                     return ListView.builder(
                         itemCount: snapshot.data!.data!.length,
                         itemBuilder: (context, index) {
@@ -64,7 +60,7 @@ class _LastExampleScreenState extends State<LastExampleScreen> {
                                       .toString()),
                                 ),
                               ),
-                              Container(
+                              SizedBox(
                                 height: MediaQuery.of(context).size.height * .3,
                                 width: MediaQuery.of(context).size.width * 1,
                                 child: ListView.builder(
@@ -107,10 +103,7 @@ class _LastExampleScreenState extends State<LastExampleScreen> {
                           );
                         });
                   } else {
-                    print('loading');
-                    print(snapshot.hasData.toString());
-
-                    return Text('Loading');
+                    return const Center(child: CircularProgressIndicator());
                   }
                 },
               ),
