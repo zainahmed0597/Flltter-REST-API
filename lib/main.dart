@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rest_api/example_five.dart';
-// import 'package:flutter_rest_api/example_four.dart';
+import 'package:flutter_rest_api/signup.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       // home: const ExampleFour(),
-      home:  const LastExampleScreen(),
+      home:  const SignUpScreen(),
     );
   }
 }
