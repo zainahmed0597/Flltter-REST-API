@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rest_api/signup.dart';
+import 'package:flutter_rest_api/upload_image.dart';
 
 
 void main() {
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       // home: const ExampleFour(),
-      home:  const SignUpScreen(),
+      home:  const UploadImageScreen(),
     );
   }
 }

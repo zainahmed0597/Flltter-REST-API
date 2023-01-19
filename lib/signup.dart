@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:http/http.dart';
 import 'package:flutter/material.dart';
 
@@ -25,15 +23,15 @@ class _SignUpScreenState extends State<SignUpScreen> {
         }
       );
       if(response.statusCode == 200) {
-        var data = jsonDecode(response.body.toString());
-        print(data['token']);
+        // var data = jsonDecode(response.body.toString());
+        // print(data['token']);
         // print('Account created successfully');
-        print('Login successfully');
+        // print('Login successfully');
       }else {
-        print('failed');
+        // print('failed');
       }
     }catch(e){
-      print(e.toString());
+      // print(e.toString());
     }
   }
 
